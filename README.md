@@ -1,11 +1,11 @@
 # loja-de-semijoias-
 # Sistema de Gerenciamento
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O nosso  projeto foi  desenvolvido para uma loja de semijoias. O objetivo é organizar informações sobre clientes, produtos, categorias e pedidos através de um banco de dados e de uma aplicação desenvolvida em Python.
 
-## 🎯 Objetivo
+##  Objetivo
 
 O projeto foi desenvolvido com o objetivo de aplicar conhecimentos de Banco de Dados e Programação Python em uma situação prática.
 
@@ -17,7 +17,7 @@ O sistema permite trabalhar com informações de:
 * Pedidos
 * Itens dos pedidos
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * PostgreSQL
 * Python
@@ -26,7 +26,7 @@ O sistema permite trabalhar com informações de:
 * GitHub
 * DrawDB/brModelo
 
-## 🗃️ Banco de dados
+##  Banco de dados
 
 O banco de dados PostgreSQL possui 5 tabelas:
 
@@ -36,7 +36,7 @@ O banco de dados PostgreSQL possui 5 tabelas:
 4. Pedido
 5. Item do Pedido
 
-## 🐍 Python
+##  Python
 
 O projeto Python utiliza:
 
@@ -46,7 +46,7 @@ O projeto Python utiliza:
 * Módulos
 * SQLite
 
-## 👩‍💻 Integrantes
+##  Integrantes
 
 * Maria Vitória
 * Luiza Polizel
