@@ -1,9 +1,9 @@
 # loja-de-semijoias-
-# 💎 Bella Joias — Sistema de Gerenciamento
+# Sistema de Gerenciamento
 
 ## 📌 Sobre o projeto
 
-O Bella Joias é um projeto desenvolvido para uma loja de semijoias. O objetivo é organizar informações sobre clientes, produtos, categorias e pedidos através de um banco de dados e de uma aplicação desenvolvida em Python.
+O nosso  projeto foi  desenvolvido para uma loja de semijoias. O objetivo é organizar informações sobre clientes, produtos, categorias e pedidos através de um banco de dados e de uma aplicação desenvolvida em Python.
 
 ## 🎯 Objetivo
 
